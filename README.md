@@ -16,3 +16,36 @@
 
 Thank you and don't forget to star! 
 
+##Somehow it does not work?
+* make sure you installed VirtualBox with as an administrator
+  right click on the icon and RUN AS ADMINISTRATOR
+
+##Oracle VM VirtualBox
+* While installing, make sure not to install USB support, networking, or python support. It wil be availabe to you on custom setup
+* Does not matter if you create a shortcut. However, it is important to register file associations
+
+##Things to make sure
+* when you are clicking NEW button on the virtualbox, 
+	name: the name you would like to call it
+	type: linux
+	version: Usually Ubuntu (64 bit) / yours might be different! double check
+
+   memory size: how much you would like the memory to be
+
+	create a virtual hard drive now! <- is the choice you would like
+
+	Dynamically allocated on the storage on physical hard drive
+
+	and create!
+
+* storage is the ISO you have downloaded in the Ubuntu.com as guided above
+
+##Once you are logged in
+* click Try Ubuntu ( One on the left )
+* if you would like the updates, click the box Download updates while installing
+* On the installation type, CLICK Erase disk and install ubuntu
+* follow the steps on keyboard layout and who you are
+* RESTART
+
+##if these do not work!
+* let me know what the problem is and I will get back to you soon as possible!
