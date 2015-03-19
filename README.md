@@ -11,4 +11,8 @@
 7. Go on to storage option and go "empty" and find your ISO
 8. save the settings, and press start
 9. As it is guided, Username is Ubuntu and the password is blank
-10. Congratulations.
+10. Turn the system off and turn it on again just in case if it did not work
+11. Congratulations, you have your own linux on your personal Mac
+
+Thank you and don't forget to star! 
+
